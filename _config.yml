@@ -71,10 +71,8 @@ nav:
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
-<<<<<<< HEAD
-=======
+
 
 
 
 theme: jekyll-theme-cayman
->>>>>>> 0b5286c3a7ccc1ee7d5eb77dad99868292d976cd
