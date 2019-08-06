@@ -3,7 +3,7 @@ title: MARCO
 subtitle: PERSONAL BLOG
 description: WELCOME TO MARCO'S WORLD
 # 头像里面的标题
-avatarTitle: 
+avatarTitle: MY WORLD
 # 头像里面的描述
 avatarDesc: iOS / 机器学习
 url: "http://baixin.io"
@@ -71,3 +71,10 @@ nav:
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
+<<<<<<< HEAD
+=======
+
+
+
+theme: jekyll-theme-cayman
+>>>>>>> 0b5286c3a7ccc1ee7d5eb77dad99868292d976cd
