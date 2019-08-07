@@ -7,6 +7,7 @@ tag: review
 
 ### title :
 **The seven faces of SIRT7**
+
   Maximilian F. Blank & Ingrid Grummt (2017): The seven faces of SIRT7, Transcription, DOI: 10.1080/21541264.2016.1276658
 
 ### key points :
@@ -23,15 +24,13 @@ tag: review
 >* Both desuccinylation of H3K122 and deacetylation of H3K18 result in chromatin compaction and lead to transcription inhibition
 
 **SIRT7 maintains metabolic homeostasis**
-```
-SIRT7→Myc→repress ER stress and prevent fatty liver disease
-SIRT7→deacetylation of GABPβ1→mitochondrial disease
-SIRT7→negatively HIF1α and HIF2α
-```
+>* SIRT7→Myc→repress ER stress and prevent fatty liver disease
+>* SIRT7→deacetylation of GABPβ1→mitochondrial disease
+>* SIRT7→negatively HIF1α and HIF2α
 
-**SIRT7 attenuates cellular stress **
-> SIRT7→hyperacetylation of  PAF53→downregulation of POI Ⅰtranscription
+**SIRT7 attenuates cellular stress**
+>* SIRT7→hyperacetylation of  PAF53→downregulation of POI Ⅰtranscription
 
 ### figures&tables
-![](markdown-img-paste-20190807155624986.png)
+![](https://i.loli.net/2019/08/07/eI3KX6qZfoD47NH.png)
 The seven faces of SIRT7. The cartoon depicts the main pathways in which SIRT7 is involved. The proteins that are targeted by SIRT7 or mediate SIRT7 function are highlighted.
