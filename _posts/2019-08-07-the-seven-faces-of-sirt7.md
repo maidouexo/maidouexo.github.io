@@ -10,7 +10,7 @@ tag: review
 
   Maximilian F. Blank & Ingrid Grummt (2017): The seven faces of SIRT7, Transcription, DOI: 10.1080/21541264.2016.1276658
 
-### key points :
+### notes :
 **SIRT7 promotes pre-rRNA transcription and processing**
 >* SIRT7 is enriched in nucleoli, where it facilitates RNA polymerase I (Pol I)-dependent transcription of RNA genes (rDNA) by interacting with the transcription factor UBF and the Pol I subunit PAF53 (polymerase-associated factor 53), the mammalian homolog of the yeast Pol Isubunit A49
 >* Wnt5a was found to trigger nucleolar accumulation of Dishevelled 1 (DVL1), a tumor suppressor that binds to rDNA. Increased levels of DVL1 displace SIRT7 from rDNA, hence repressing Pol I transcription
@@ -31,6 +31,6 @@ tag: review
 **SIRT7 attenuates cellular stress**
 >* SIRT7→hyperacetylation of  PAF53→downregulation of POI Ⅰtranscription
 
-### figures&tables
+### figures&tables:
 ![](https://i.loli.net/2019/08/07/eI3KX6qZfoD47NH.png)
 The seven faces of SIRT7. The cartoon depicts the main pathways in which SIRT7 is involved. The proteins that are targeted by SIRT7 or mediate SIRT7 function are highlighted.
