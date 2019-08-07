@@ -7,7 +7,7 @@ My main idea for this blog is to share some scientific-article-reading reviews a
 
 
 
-*** INFO.
+### INFO.
 
 - PEIKING UNIVERSITY
 
@@ -15,7 +15,7 @@ My main idea for this blog is to share some scientific-article-reading reviews a
 
 - master
 
-*** FAV.
+### FAV.
 - swimming
 - film-watching
 - reading
