@@ -1,13 +1,15 @@
 ---
 layout: post
-title: nature2012-chua
+title: SIRT7 links H3K18 deacetylation to maintenance of oncogenic transformation
 date: 2019-08-07
 tag: journal article
 ---
 
 ### title :
 **SIRT7 links H3K18 deacetylation to maintenance of oncogenic transformation**
-
+  Wei Li and Katrin F. Chua
+  Nature. 2012 July 5; 487(7405): 114–118. doi:10.1038/nature11043.
+  
 ### key words:
 - SIRT7
 - H3K18Ac
@@ -62,6 +64,3 @@ Changes in global histone acetylation levels in SIRT7 overexpressing versus cont
 
 <img src='https://i.loli.net/2019/08/07/zDlmteRfCbrKsT9.png'>
 SIRT7 is stabilized at target promoters by interaction with the ETS family transcription factor ELK4
-
-<br>
-<https://maidouexo.github.io>
