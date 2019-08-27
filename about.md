@@ -7,7 +7,7 @@ My main idea for this blog is to share some scientific-article-reading reviews a
 
 ### INFO.
 
-- PEIKING UNIVERSITY
+- PEKING UNIVERSITY
 
 - biochemistry and molecular biology
 
