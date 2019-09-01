@@ -14,15 +14,9 @@ tag: protocol
 ### Procedure:
 > 1.  Determine your sample type, and perform homogenization at room temperature according to the table below. The sample volume should not exceed 10% of the volume of TRIzol Reagent used for homogenization. Be sure to use the indicated amount of TRIzol Reagent, because an insufficient volume can result in DNA contamination of isolated RNA.
 > 2.  Incubate the homogenized sample for 5 minutes at room temperature to permit complete dissociation of the nucleoprotein complex.
-
 > 3.  Add 0.2 mL of chloroform per 1 mL of TRIzol® Reagent used for homogenization. Cap the tube securely. Shake tube vigorously by hand for 15 seconds. Incubate for 2–3 minutes at room temperature.
-
 > 4.  Centrifuge the sample at 12,000 × g for 15 minutes at 4°C. Note: The mixture separates into a lower red phenolchloroform phase, an interphase, and a colorless upper aqueous phase. RNA remains exclusively in the aqueous phase. The upper aqueous phase is ~50% of the total volume.
-
 > 5.  Place the aqueous phase into a new tube Add 0.5 mL of 100% isopropanol to the aqueous phase, per 1 mL of TRIzol® Reagent used for homogenization. Incubate at room temperature for 10 minutes.
-
 > 6.  Centrifuge at 12,000 × g for 10 minutes at 4°C. Note: The RNA is often invisible prior to centrifugation, and forms a gel-like pellet on the side and bottom of the tube.
-
 > 7.  Remove the supernatant from the tube, leaving only the RNA pellet.Wash the pellet, with 1 mL of 75% ethanol per 1 mL of TRIzol® Reagent used in the initial homogenization. Vortex the sample briefly, then centrifuge the tube at 7500 × g for 5 minutes at 4°C. Discard the wash.
-
 > 8.  Air dry the RNA pellet for 5–10 minutes. Resuspend the RNA pellet in DEPC water (20–50 μL) by passing the solution up and down several times through a pipette tip .Note: Do not allow the RNA to dry completely, because the pellet can lose solubility. Incubate in a water bath or heat block set at 55–60°C for 10–15 minutes to fully dissolved RNA samples.
